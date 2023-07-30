@@ -19,6 +19,7 @@
 
 ## Design/Architecture
 <br>User Request Flow Diagram
+<br>
 <img width="595" alt="Screenshot 2023-07-30 at 10 26 08 PM" src="https://github.com/CKBCoder/Milo_Readme/assets/1657417/6a540fd6-254b-4674-81b8-196e348f3f59">
 
 ## Performance
