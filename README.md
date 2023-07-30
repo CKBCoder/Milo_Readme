@@ -34,8 +34,7 @@
 </p>
 
 ## Deployment
-	
-![image](https://github.com/CKBCoder/Milo_Assignment/assets/1657417/be0f127f-4683-4e15-ab8f-d3bc4366f00d)
+<img width="961" alt="Screenshot 2023-07-30 at 10 27 43 PM" src="https://github.com/CKBCoder/Milo_Readme/assets/1657417/54d7f0ed-ff53-4991-9980-c7bfda615162">
 <p>
     Serverless
 	<ul>
