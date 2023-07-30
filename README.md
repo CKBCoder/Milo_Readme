@@ -19,7 +19,7 @@
 
 ## Design/Architecture
     User Request Flow Diagram
-<img width="591" alt="Screenshot 2023-07-30 at 7 22 21 PM" src="https://github.com/CKBCoder/Milo_Assignment/assets/1657417/250464be-6011-4858-8973-4a6c5d93f786">
+<img width="595" alt="Screenshot 2023-07-30 at 10 26 08 PM" src="https://github.com/CKBCoder/Milo_Readme/assets/1657417/6a540fd6-254b-4674-81b8-196e348f3f59">
 
 ## Performance
 <p>For better performance we can store it in DB with index for column start_time so that when we query using Order by we can get events in sorted manner. Then our application code which uses two pointer algorithm just takes O(N) time and O(1) space.
