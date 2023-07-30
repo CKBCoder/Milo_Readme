@@ -88,7 +88,3 @@ Serverless is more cost effective if we have traffic less than 20k requests per 
 </p>
 </li>
 </ol>
-
-## Postman Collection Link
-Contains all the API endpoints
-https://api.postman.com/collections/9832844-9ed6c647-464b-49f1-ae3e-63c33aa355c5?access_key=PMAT-01H6KT2JMX50H9RM8TR6N7Q03N
