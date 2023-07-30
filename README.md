@@ -18,7 +18,7 @@
 </ol>
 
 ## Design/Architecture
-    User Request Flow Diagram
+<br>User Request Flow Diagram
 <img width="595" alt="Screenshot 2023-07-30 at 10 26 08 PM" src="https://github.com/CKBCoder/Milo_Readme/assets/1657417/6a540fd6-254b-4674-81b8-196e348f3f59">
 
 ## Performance
@@ -34,7 +34,7 @@
 </p>
 
 ## Deployment
-<img width="961" alt="Screenshot 2023-07-30 at 10 27 43 PM" src="https://github.com/CKBCoder/Milo_Readme/assets/1657417/54d7f0ed-ff53-4991-9980-c7bfda615162">
+<img width="600" alt="Screenshot 2023-07-30 at 10 27 43 PM" src="https://github.com/CKBCoder/Milo_Readme/assets/1657417/54d7f0ed-ff53-4991-9980-c7bfda615162">
 <p>
     Serverless
 	<ul>
@@ -61,7 +61,7 @@ Serverless is more cost effective if we have traffic less than 20k requests per 
 
 <li>
 <b>Considering the locations of the events</b>
-<p>Add a column name location. Conflicting logic will be <strong>(interval1.end + time(location1, location2) > interval2.start)</strong>
+<p>Add a column name location. Conflicting logic will be <b>(interval1.end + time(location1, location2) > interval2.start)</b>
 	<br>To find the time between two locations i.e time(location1, location2), we can use Google Maps API.
 </p>
 </li>
